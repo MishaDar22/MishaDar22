@@ -3,7 +3,7 @@
 I'm Michail, Data Scientist from **Minsk, Belarus**, currently living in **Warsaw, Poland**.
 
 
-### Languages & Technologies
+## Languages & Technologies
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![R](https://img.shields.io/badge/-R-000?&logo=R)
@@ -17,12 +17,14 @@ I'm Michail, Data Scientist from **Minsk, Belarus**, currently living in **Warsa
   ![ScikitLearn](https://img.shields.io/badge/-ScikitLearn-000?&logo=ScikitLearn)
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
-### Where to find me
+## Where to find me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michail-darakhovich/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/michaildorohovich/)
 
-### GitHub Stats
+## Projects
+
+## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishaDar22&layout=compact&count_private=true&theme=gruvbox" />
 
