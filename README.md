@@ -23,6 +23,9 @@ I'm Michail, Data Scientist from **Minsk, Belarus**, currently living in **Warsa
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/michaildorohovich/)
 
 ## Projects
+[Clustering pokemon (R)](https://github.com/MishaDar22/Clustering_pokemon)
+
+[Association Rules - AdultUCI (R)](https://github.com/MishaDar22/Association_Rules_AdultUCI)
 
 ## GitHub Stats
 
