@@ -25,6 +25,8 @@ I'm Michail, Data Scientist from **Minsk, Belarus**, currently living in **Warsa
 ## Projects
 [Topic modeling: Project of linguistic analysis of participatory budgets - NLP (Python)](https://github.com/MishaDar22/NLP_topic_modeling_civic_budgets)
 
+[Face mask detection](https://github.com/MishaDar22/CV_face_mask_detection)
+
 [Clustering pokemon (R)](https://github.com/MishaDar22/Clustering_pokemon)
 
 [Association Rules - AdultUCI (R)](https://github.com/MishaDar22/Association_Rules_AdultUCI)
