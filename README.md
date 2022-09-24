@@ -23,6 +23,8 @@ I'm Michail, Data Scientist from **Minsk, Belarus**, currently living in **Warsa
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/michaildorohovich/)
 
 ## Projects
+[Suspicious network event recognition - Supervised Learning, Python](https://github.com/MishaDar22/Suspicious_network_event_recognition)
+
 [Topic modeling: Project of linguistic analysis of participatory budgets - NLP (Python)](https://github.com/MishaDar22/NLP_topic_modeling_civic_budgets)
 
 [Face mask detection](https://github.com/MishaDar22/CV_face_mask_detection)
