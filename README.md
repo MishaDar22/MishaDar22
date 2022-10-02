@@ -33,8 +33,5 @@ I'm Michail, Data Scientist from **Minsk, Belarus**, currently living in **Warsa
 
 [Association Rules - AdultUCI (R)](https://github.com/MishaDar22/Association_Rules_AdultUCI)
 
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishaDar22&layout=compact&theme=gruvbox" />
 
 ![Profile views](https://gpvc.arturio.dev/MishaDar22)
